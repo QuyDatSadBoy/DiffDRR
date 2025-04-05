@@ -100,3 +100,5 @@ target/
 # Jupyter notebooks
 .last_checked
 filtered_dataset/
+images/
+images_cropped/
